@@ -21,6 +21,7 @@ Simplified lasercut template similar to the Magic Flight Launch Box (MFLB)
 0. assemble the wires
 0. add the other 3 layers
 0. fix the lid with a 3x10mm screw
+0. insert the steel strainer
 0. smoke
 0. profit!
 
