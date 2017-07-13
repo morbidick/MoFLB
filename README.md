@@ -1,7 +1,8 @@
 # Morbis Flight Launch Box
 
 Simplified lasercut template similar to the Magic Flight Launch Box (MFLB)
-![v0.1](docs/v0.1.png "first version")
+
+![preview](docs/v0.1.jpg "version 0.1")
 
 ## What you need
 * 20mm steel strainer https://www.amazon.de/gp/product/B007Q7UDSO/
