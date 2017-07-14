@@ -10,11 +10,11 @@ Simplified lasercut template similar to the Magic Flight Launch Box (MFLB)
 * AA NiMH rechargeable battery
 
 ## Lasercutter instructions
-| step | color | power   |
-| ---  | ---   | ---     |
-| 0    | red   | engrave |
-| 1    | green | cut     |
-| 2    | black | cut     |
+| step  | color | power   |
+| ----- | ----- | ------- |
+| **1** | red   | engrave |
+| **2** | green | cut     |
+| **3** | black | cut     |
 
 ## Assembly instructions
 0. lasercut template (4mm wood)
@@ -26,4 +26,3 @@ Simplified lasercut template similar to the Magic Flight Launch Box (MFLB)
 0. insert the steel strainer
 0. smoke
 0. profit!
-
