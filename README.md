@@ -6,15 +6,17 @@ Simplified lasercut template similar to the Magic Flight Launch Box (MFLB)
 
 ## What you need
 * 20mm steel strainer https://www.amazon.de/gp/product/B007Q7UDSO/
-* 1.5mm² steel wire
+* 1.5mm² cupper wire
+* 3x10mm screw
 * AA NiMH rechargeable battery
 
 ## Lasercutter instructions
-| step  | color | power   |
-| ----- | ----- | ------- |
-| **1** | red   | engrave |
-| **2** | green | cut     |
-| **3** | black | cut     |
+| step  | color  | power    |
+| ---   | ---    | ---      |
+| **1** | violet | engrave  |
+| **2** | red    | half-cut |
+| **3** | green  | cut      |
+| **4** | black  | cut      |
 
 ## Assembly instructions
 0. lasercut template (4mm wood)
